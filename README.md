@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on Full-Stack Developer.
 - 🌱 I’m currently learning Laravel, Node.js, React.js, React Native
-- 👯 I’m looking to collaborate on Quaggajs using on my Project Barcode
 - 🤔 I’m looking for help with World JavaScript.
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
