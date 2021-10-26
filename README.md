@@ -10,16 +10,9 @@
 
   <!-- RESUMO DO PERFIL Github -->
   
-<div class="d-flex row">
-  
-  <div class="col-6">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonasfm1&&show_icons=true&theme=ocean_dark">
-  </div>
-  
-  <div class="col-6">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasfm1&layout=compact&theme=ocean_dark">
-  </div>
-  
+<div class="row d-flex">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonasfm1&&show_icons=true&theme=ocean_dark">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasfm1&layout=compact&theme=ocean_dark">
 </div>
 
 <br><!-- LINGUAGENS USO PROFISSIONAL E EDUCACIONAL -->
