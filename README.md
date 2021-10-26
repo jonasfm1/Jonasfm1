@@ -37,7 +37,7 @@
   <img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />
 </div>
 
-<br> <!-- MEUS SISTEMAS OPERACIONAIS -->
+<!-- MEUS SISTEMAS OPERACIONAIS -->
 
 <div>
   <a href="" target="_blank"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" target="_blank"/> <a/>
