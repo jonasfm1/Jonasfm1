@@ -11,8 +11,8 @@
   <!-- RESUMO DO PERFIL Github -->
   
 <div class="row d-flex">
-  <img height="180em" width="440px" src="https://github-readme-stats.vercel.app/api?username=jonasfm1&&show_icons=true&theme=ocean_dark">
-  <img height="180em" width="440px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasfm1&layout=compact&theme=ocean_dark">
+  <img src="https://github-readme-stats.vercel.app/api?username=jonasfm1&&show_icons=true&theme=ocean_dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasfm1&layout=compact&theme=ocean_dark">
 </div>
 
 <br><!-- LINGUAGENS USO PROFISSIONAL E EDUCACIONAL -->
