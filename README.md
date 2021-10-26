@@ -10,12 +10,12 @@
 
   <!-- RESUMO DO PERFIL Github -->
   
-<div>
+<div style="display: inline-block">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonasfm1&&show_icons=true&theme=ocean_dark">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasfm1&layout=compact&theme=ocean_dark">
 </div>
 <!-- LINGUAGENS USO PROFISSIONAL E EDUCACIONAL -->
-<div style="display: inline-block">
+<div>
   <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
   &nbsp &nbsp
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
@@ -35,7 +35,7 @@
   <img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />
 </div>
 
-<!-- MEUS SISTEMAS OPERACIONAIS -->
+<br> <!-- MEUS SISTEMAS OPERACIONAIS -->
 
 <div>
   <a href="" target="_blank"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" target="_blank"/> <a/>
