@@ -14,7 +14,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonasfm1&&show_icons=true&theme=ocean_dark">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasfm1&layout=compact&theme=ocean_dark">
 </div>
-<!-- LINGUAGENS USO PROFISSIONAL E EDUCACIONAL -->
+<br><!-- LINGUAGENS USO PROFISSIONAL E EDUCACIONAL -->
 <div>
   <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
   &nbsp &nbsp
