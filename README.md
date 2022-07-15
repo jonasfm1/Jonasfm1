@@ -1,7 +1,7 @@
 ### Hi there My Name is Jonas 👋
 
 - 🔭 I’m currently working on Full-Stack Developer.
-- 🌱 I’m currently learning Laravel, Node.js, React.js, React Native
+- 🌱 I’m currently learning JavaScript.
 - 🤔 I’m looking for help with World JavaScript.
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
