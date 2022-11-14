@@ -18,8 +18,6 @@
 <br><!-- LINGUAGENS USO PROFISSIONAL E EDUCACIONAL -->
 
 <div style="display: inline_block">
-  <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
-  &nbsp &nbsp
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
   &nbsp &nbsp
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
