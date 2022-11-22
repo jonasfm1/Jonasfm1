@@ -18,13 +18,15 @@
 <br><!-- LINGUAGENS USO PROFISSIONAL E EDUCACIONAL -->
 
 <div style="display: inline_block">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-  &nbsp &nbsp
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-  &nbsp &nbsp
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
   &nbsp &nbsp
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+  &nbsp &nbsp
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+  &nbsp &nbsp
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" />
+  &nbsp &nbsp
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
   &nbsp &nbsp
   <img align="center" height="60" width="70" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" />
   &nbsp &nbsp
