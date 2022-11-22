@@ -26,13 +26,13 @@
   &nbsp &nbsp
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" />
   &nbsp &nbsp
+  <img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />
+  &nbsp &nbsp
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
   &nbsp &nbsp
   <img align="center" height="60" width="70" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" />
   &nbsp &nbsp
   <img align="center" height="60" width="70" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" />
-  &nbsp &nbsp
-  <img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />
 </div>
 
 <br> <!-- MEUS SISTEMAS OPERACIONAIS -->
